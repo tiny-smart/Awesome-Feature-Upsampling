@@ -1,4 +1,4 @@
-# Awesome Dynamic Upsamplers: [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Feature Upsamplers: [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A exhaustive collection of awesome dynamic upsamplers in computer vision
 
@@ -8,7 +8,7 @@ A exhaustive collection of awesome dynamic upsamplers in computer vision
 
 ## 2023
 
-- [Learning to Upsample by Learning to Sample](https://arxiv.org/pdf/2308.15085.pdf) - Wenze Liu Hao Lu* Hongtao Fu Zhiguo Cao
+- [Learning to Upsample by Learning to Sample](https://arxiv.org/pdf/2308.15085.pdf) - Wenze Liu Hao Lu Hongtao Fu Zhiguo Cao
 
 ## 2022
 
