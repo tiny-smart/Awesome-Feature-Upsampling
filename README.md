@@ -45,4 +45,4 @@ A exhaustive collection of feature upsampling operators in computer vision
 
 ## Contributions:
 
-Please feel free to send me [pull requests] or email to add links.
+Please feel free to send me [pull requests](https://github.com/tiny-smart/Awesome-Feature-Upsampling/pulls) or email to add links.
