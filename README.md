@@ -38,10 +38,16 @@ A collection of feature upsampling operators in computer vision. We mainly hight
 - [**ICCV**] [Indices Matter: Learning to Index for Deep Image Matting](https://arxiv.org/pdf/1908.00672.pdf) - Hao Lu, Yutong Dai, Chunhua Shen, Songcen Xu
 
 [^_^]:
-    - [CVPR] [Fast End-to-End Trainable Guided Filter](https://arxiv.org/pdf/1803.05619.pdf) - Huikai Wu, Shuai Zheng, Junge Zhang, Kaiqi Huang
+    - [**CVPR**] [Fast End-to-End Trainable Guided Filter](https://arxiv.org/pdf/1803.05619.pdf) - Huikai Wu, Shuai Zheng, Junge Zhang, Kaiqi Huang
+
+## 2017
+- [**TPAMI**] [SegNet: A deep convolutional encoder-decoder architecture for image segmentation](https://arxiv.org/pdf/1511.00561.pdf) - Vijay Badrinarayanan, Alex Kendall, Roberto Cipolla
 
 ## 2016
 - [**CVPR**] [Real-time single image and video super-resolution using an efficient sub-pixel convolutional neural network](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shi_Real-Time_Single_Image_CVPR_2016_paper.pdf) - Wenzhe Shi, Jose Caballero, Ferenc Huszar, Johannes Totz, Andrew P. Aitken, Rob Bishop, Daniel Rueckert, Zehan Wang
+
+## 2015
+- [**ICCV**] [Learning deconvolution network for semantic segmentation](https://openaccess.thecvf.com/content_iccv_2015/papers/Noh_Learning_Deconvolution_Network_ICCV_2015_paper.pdf) - Hyeonwoo Noh, Seunghoon Hong, Bohyung Han
 
 ## Contributions:
 
