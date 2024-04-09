@@ -39,10 +39,18 @@ A collection of feature upsampling operators in computer vision. We mainly hight
 
 
 [^_^]:
-    - [CVPR] Fast End-to-End Trainable Guided Filter [[paper](https://arxiv.org/pdf/1803.05619.pdf)][[code](https://github.com/wuhuikai/DeepGuidedFilter)]![GitHub stars](http://img.shields.io/github/stars/wuhuikai/DeepGuidedFilter.svg?logo=github&label=Stars)
+
+- [CVPR] Fast End-to-End Trainable Guided Filter [[paper](https://arxiv.org/pdf/1803.05619.pdf)][[code](https://github.com/wuhuikai/DeepGuidedFilter)]![GitHub stars](http://img.shields.io/github/stars/wuhuikai/DeepGuidedFilter.svg?logo=github&label=Stars)
+
+
+## 2017
+- [**TPAMI**] [SegNet: A deep convolutional encoder-decoder architecture for image segmentation](https://arxiv.org/pdf/1511.00561.pdf)
 
 ## 2016
 - [**CVPR**] Real-time single image and video super-resolution using an efficient sub-pixel convolutional neural network [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shi_Real-Time_Single_Image_CVPR_2016_paper.pdf)][[code]()]
+
+## 2015
+- [**ICCV**] [Learning deconvolution network for semantic segmentation](https://openaccess.thecvf.com/content_iccv_2015/papers/Noh_Learning_Deconvolution_Network_ICCV_2015_paper.pdf) - Hyeonwoo Noh, Seunghoon Hong, Bohyung Han
 
 ## Contributions:
 
