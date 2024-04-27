@@ -40,6 +40,7 @@ A collection of feature upsampling operators in computer vision. We mainly hight
 - [**ICCV**] CARAFE: Content-Aware ReAssembly of FEatures [[paper](https://arxiv.org/pdf/1905.02188)][[code](https://github.com/open-mmlab/mmdetection)]![GitHub stars](http://img.shields.io/github/stars/open-mmlab/mmdetection.svg?logo=github&label=Stars)
 - [**ICCV**] Indices Matter: Learning to Index for Deep Image Matting [[paper](https://arxiv.org/pdf/1908.00672.pdf)][[code](https://github.com/poppinace/indexnet_matting)]![GitHub stars](http://img.shields.io/github/stars/poppinace/indexnet_matting.svg?logo=github&label=Stars)
 - [**CVPR**] Fast End-to-End Trainable Guided Filter [[paper](https://arxiv.org/pdf/1803.05619.pdf)][[code](https://github.com/wuhuikai/DeepGuidedFilter)]![GitHub stars](http://img.shields.io/github/stars/wuhuikai/DeepGuidedFilter.svg?logo=github&label=Stars)
+- [**CVPR**] DUpsampling:Decoders Matter for Semantic Segmentation [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Tian_Decoders_Matter_for_Semantic_Segmentation_Data-Dependent_Decoding_Enables_Flexible_Feature_CVPR_2019_paper.pdf)][[code]()]
 
 ## 2018
 - [**CVPR**] Deep Image Prior [[paper](https://arxiv.org/pdf/1711.10925.pdf)][[code](https://github.com/DmitryUlyanov/deep-image-prior)]![GitHub stars](http://img.shields.io/github/stars/DmitryUlyanov/deep-image-prior.svg?logo=github&label=Stars)
