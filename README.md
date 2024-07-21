@@ -5,10 +5,12 @@ A collection of feature upsampling operators in computer vision. We mainly hight
 ## arXiv Preprint
 
 - On Point Affiliation in Feature Upsampling [[paper](https://arxiv.org/pdf/2307.08198.pdf)][[code](https://github.com/tiny-smart/sapa)]![GitHub stars](http://img.shields.io/github/stars/tiny-smart/sapa.svg?logo=github&label=Stars)
+- A Refreshed Similarity-based Upsampler for Direct High-Ratio Feature Upsampling [[paper](https://arxiv.org/pdf/2407.02283)]
 
 ## 2024
 
 - [**ICLR**] FEATUP: A MODEL-AGNOSTIC FRAMEWORK FOR FEATURES AT ANY RESOLUTION [[paper](https://arxiv.org/pdf/2403.10516.pdf)][[code](https://github.com/mhamilton723/FeatUp)]![GitHub stars](http://img.shields.io/github/stars/mhamilton723/FeatUp?logo=github&label=Stars)
+- [**IJCV**] FADE: A Task-Agnostic Upsampling Operator for Encoder-Decoder Architectures [[paper](https://arxiv.org/abs/2407.13500)][[code](https://github.com/poppinace/fade)]![GitHub stars](http://img.shields.io/github/stars/poppinace/fade?logo=github&label=Stars)
 
 ## 2023
 
