@@ -10,6 +10,7 @@ A collection of feature upsampling operators in computer vision. We mainly hight
 ## 2024
 
 - [**ICLR**] FEATUP: A MODEL-AGNOSTIC FRAMEWORK FOR FEATURES AT ANY RESOLUTION [[paper](https://arxiv.org/pdf/2403.10516.pdf)][[code](https://github.com/mhamilton723/FeatUp)]![GitHub stars](http://img.shields.io/github/stars/mhamilton723/FeatUp?logo=github&label=Stars)
+- [**ECCV**] LiFT: A Surprisingly Simple Lightweight Feature Transform for Dense ViT Descriptors [[paper](https://arxiv.org/pdf/2403.14625.pdf)][[code](https://github.com/saksham-s/lift)]![GitHub stars](http://img.shields.io/github/stars/saksham-s/lift?logo=github&label=Stars)
 - [**TPAMI**] Frequency-aware Feature Fusion for Dense Image Prediction [[paper](https://arxiv.org/pdf/2408.12879)][[code](https://github.com/Linwei-Chen/FreqFusion)]![GitHub stars](http://img.shields.io/github/stars/Linwei-Chen/FreqFusion?logo=github&label=Stars)
 - [**IJCV**] FADE: A Task-Agnostic Upsampling Operator for Encoder-Decoder Architectures [[paper](https://arxiv.org/abs/2407.13500)][[code](https://github.com/poppinace/fade)]![GitHub stars](http://img.shields.io/github/stars/poppinace/fade?logo=github&label=Stars)
 
@@ -47,8 +48,6 @@ A collection of feature upsampling operators in computer vision. We mainly hight
 
 ## 2018
 - [**CVPR**] Deep Image Prior [[paper](https://arxiv.org/pdf/1711.10925.pdf)][[code](https://github.com/DmitryUlyanov/deep-image-prior)]![GitHub stars](http://img.shields.io/github/stars/DmitryUlyanov/deep-image-prior.svg?logo=github&label=Stars)
-
-
 
 ## 2017
 - [**TPAMI**] SegNet: A deep convolutional encoder-decoder architecture for image segmentation [[paper](https://arxiv.org/pdf/1511.00561.pdf)]
