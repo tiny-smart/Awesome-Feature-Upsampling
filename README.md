@@ -1,6 +1,6 @@
 # Awesome Feature Upsampling: [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A collection of feature upsampling operators in computer vision. We mainly hightlight operators published at top conferences and journals.
+A collection of feature upsampling operators in computer vision. We mainly highlight operators published at top conferences and journals.
 
 ## arXiv Preprint
 
