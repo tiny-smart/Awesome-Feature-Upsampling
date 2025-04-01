@@ -6,6 +6,7 @@ A collection of feature upsampling operators in computer vision. We mainly highl
 
 - On Point Affiliation in Feature Upsampling [[paper](https://arxiv.org/pdf/2307.08198.pdf)][[code](https://github.com/tiny-smart/sapa)]![GitHub stars](http://img.shields.io/github/stars/tiny-smart/sapa.svg?logo=github&label=Stars)
 - A Refreshed Similarity-based Upsampler for Direct High-Ratio Feature Upsampling [[paper](https://arxiv.org/pdf/2407.02283)]
+- FeatSharp: Your Vision Model Features, Sharper [[paper](https://arxiv.org/pdf/2502.16025)]
 
 ## 2024
 
