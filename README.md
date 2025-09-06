@@ -8,6 +8,12 @@ A collection of feature upsampling operators in computer vision. We mainly highl
 - A Refreshed Similarity-based Upsampler for Direct High-Ratio Feature Upsampling [[paper](https://arxiv.org/pdf/2407.02283)]
 - FeatSharp: Your Vision Model Features, Sharper [[paper](https://arxiv.org/pdf/2502.16025)]
 
+
+## 2025
+
+- [**ICCV**] LoftUp: A Coordinate-Based Feature Upsampler for Vision Foundation Models [[paper](https://arxiv.org/pdf/2504.14032.pdf)][[code](https://github.com/andrehuang/loftup)]![GitHub stars](http://img.shields.io/github/stars/andrehuang/loftup?logo=github&label=Stars)
+
+
 ## 2024
 
 - [**ICLR**] FEATUP: A MODEL-AGNOSTIC FRAMEWORK FOR FEATURES AT ANY RESOLUTION [[paper](https://arxiv.org/pdf/2403.10516.pdf)][[code](https://github.com/mhamilton723/FeatUp)]![GitHub stars](http://img.shields.io/github/stars/mhamilton723/FeatUp?logo=github&label=Stars)
